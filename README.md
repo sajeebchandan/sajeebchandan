@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sajeeb-chandan-saha-0b15b7b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajeeb-chandan-saha-0b15b7b0" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/9518407/sajeeb-chandan-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9518407/sajeeb-chandan-saha" height="30" width="40" /></a>
 <a href="https://kaggle.com/sajeebchandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sajeebchandan" height="30" width="40" /></a>
 <a href="https://instagram.com/sajeeb.chandan.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajeeb.chandan.saha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sajeeb4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajeeb4" height="30" width="40" /></a>
