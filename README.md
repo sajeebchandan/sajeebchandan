@@ -64,9 +64,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
 </div>
+<br>
+<div style="margin-top:1em">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeebchandan&show_icons=true&locale=en&layout=compact" alt="sajeebchandan" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeebchandan&show_icons=true&locale=en&layout=compact" alt="sajeebchandan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajeebchandan&show_icons=true&locale=en" alt="sajeebchandan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajeebchandan&show_icons=true&locale=en" alt="sajeebchandan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebchandan&" alt="sajeebchandan" /></p>
