@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeebchandan" alt="sajeebchandan" /></a> </p>
 
-- 🔭 I’m currently working on [JobDroid](https://www.jobdroid.com.au/)
+- 🔭 I’m currently working on [TechRiver](https://techriver.net/)
 
 - 🌱 I’m currently learning **.NET MAUI**
 
